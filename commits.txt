@@ -1,0 +1,17 @@
+commit 4e6ac60e146c5bafe21a00ed06487733d6bb3bd9
+Author: Thainá Freitas de Lima <thainalima@192.168.0.34>
+Date:   Mon Apr 13 20:52:58 2026 -0300
+
+     deixando mais fácil
+
+commit eab01d76f625a9118e634bafc4c18670fb0632b5
+Author: Thainá Freitas de Lima <thainalima@192.168.0.34>
+Date:   Mon Apr 13 20:30:41 2026 -0300
+
+    alterando limite para 100
+
+commit 85d894611f5bcfb08d29c57e205f85576d0ab7ee
+Author: Thainá Freitas de Lima <thainalima@192.168.0.34>
+Date:   Mon Apr 13 19:43:38 2026 -0300
+
+    projeto inicial
